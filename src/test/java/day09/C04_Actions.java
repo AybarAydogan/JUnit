@@ -7,9 +7,7 @@ import org.openqa.selenium.interactions.Actions;
 import utilities.ReusableMethods;
 import utilities.TestBase;
 
-import javax.swing.*;
-
-public class C04_Acitons extends TestBase {
+public class C04_Actions extends TestBase {
 
     @Test
     public void sagClickTesti(){
